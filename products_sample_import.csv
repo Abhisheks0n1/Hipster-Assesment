@@ -1,0 +1,4 @@
+name,description,price,image,category,stock
+Product1,This is a test product 1,10.99,,Electronics,100
+Product2,This is a test product 2,20.50,custom.jpg,Books,50
+Product3,This is a test product 3,15.00,,Clothing,200
